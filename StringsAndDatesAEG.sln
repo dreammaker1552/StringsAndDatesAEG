@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StringsAndDatesAEG", "StringsAndDatesAEG.pyproj", "{89CC4F2F-7AD7-4F76-99BE-937AC219E14C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89CC4F2F-7AD7-4F76-99BE-937AC219E14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CC4F2F-7AD7-4F76-99BE-937AC219E14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED74F30F-2DC0-40CC-BD08-8A738A197B28}
+	EndGlobalSection
+EndGlobal
