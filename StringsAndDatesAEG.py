@@ -43,4 +43,5 @@ while user_date != '-1':
     else:
         print('Date entered is invalid.')
     user_date = input('Enter Date: ')
+print ("Good Bye - See you soon! ")
 
